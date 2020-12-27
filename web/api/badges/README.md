@@ -190,7 +190,7 @@ These are options dedicated to badges:
     The following parameters specify colors of each individual part of the badge. Each parameter is documented in detail
     below.
 
-    | Area of badge      | Backgroud color parameter | Text color parameter |
+    | Area of badge      | Background color parameter | Text color parameter |
     | ---:               | :-----------------------: | :------------------: |
     | Label (left) part  | `label_color`             | `text_color_lbl`     |
     | Value (right) part | `value_color`             | `text_color_val`     |
