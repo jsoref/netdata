@@ -14,7 +14,7 @@ For example, you might want to increase metrics retention, configure a collector
 setup, or secure the local dashboard by restricting it to only connections from `localhost`.
 
 Whatever the reason, Netdata users should know how to configure individual nodes to act decisively if an incident,
-anomaly, or change in infrastructure affects how their Agents should peform.
+anomaly, or change in infrastructure affects how their Agents should perform.
 
 ## The Netdata config directory
 
