@@ -1,6 +1,6 @@
 <!--
 title: "Install Netdata with .deb/.rpm packages"
-desciption: "Install the Netdata Agent with Linux packages that support Ubuntu, Debian, Fedora, RHEL, CentOS, openSUSE, and more."
+description: "Install the Netdata Agent with Linux packages that support Ubuntu, Debian, Fedora, RHEL, CentOS, openSUSE, and more."
 custom_edit_url: https://github.com/netdata/netdata/edit/master/packaging/installer/methods/packages.md
 -->
 
